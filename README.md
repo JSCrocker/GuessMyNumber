@@ -1,4 +1,7 @@
 # GuessMyNumber
+
+https://jscrocker.github.io/GuessMyNumber/
+
 In the first part of the project Guess My Number, I am learning how to manipulate the DOM using "document.querySelector('.message').textContent" and "document.querySelector('.guess').value = 23;".
 
 The second part of the project Guess My Number, using event handler was able to have the user input a number from 1-20 and have the game check the user input vs the random generated number. The condintions for check are the following: 
